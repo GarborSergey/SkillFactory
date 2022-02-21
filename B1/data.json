@@ -1,0 +1,38 @@
+{
+  "20": [
+    {
+      "name": "RUB",
+      "cost": 0.01354,
+      "amount": 1000
+    },
+    {
+      "name": "BTS",
+      "cost": 36000,
+      "amount": 0.003
+    }
+  ],
+  "21": [
+    {
+      "name": "RUB",
+      "cost": 0.01354,
+      "amount": 2000
+    },
+    {
+      "name": "BTS",
+      "cost": 36000,
+      "amount": 0.006
+    }
+  ],
+  "22": [
+    {
+      "name": "RUB",
+      "cost": 0.01354,
+      "amount": 2000
+    },
+    {
+      "name": "BTS",
+      "cost": 36000,
+      "amount": 0.006
+    }
+  ]
+}
